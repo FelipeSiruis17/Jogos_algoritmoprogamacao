@@ -7,6 +7,10 @@ print("Jogo Jokenpo!")
 opcoes = ["Pedra", "Papel", "Tesoura", "Fogo"]
 chances = 0
 
+
+
+
+
 while chances < 3:
     jogador = str(input("Escolha entre Pedra, Papel, Tesoura, Fogo : ").capitalize())
 
